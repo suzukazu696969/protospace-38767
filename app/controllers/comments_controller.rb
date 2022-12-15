@@ -7,6 +7,7 @@ class CommentsController < ApplicationController
   else
     render "prototypes/show"
    end
+   
   end
   
   private
